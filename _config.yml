@@ -1,6 +1,6 @@
 name: Vitor Fraga
-bio: A Man who travels the world eating noodles
-description: A blog about technology and stuff related
+bio: Data Analyst
+description: Data Analyst
 external-image: 'false'
 picture: assets/images/profile.jpg
 resume: true
@@ -13,24 +13,20 @@ disqus:
   categories:
     - blog
     - project
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+# facebook: myfacebook
+# twitter: mytwitter
+github: vitorfraga
+medium: false
+email: vitor.augusto.fraga@gmail.com
+linkedin: vitorfraga
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Vitor Fraga
+    bio: Data Analyst
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: false
+ 
 width: normal
 pagination:
   enabled: false
@@ -38,9 +34,9 @@ pagination:
   title: ':title'
   per_page: 5
   permalink: '/:num/'
-projects: true
+projects: false
 about: true
-blog: true
+blog: false
 read-time: true
 show-tags: true
 related: true
