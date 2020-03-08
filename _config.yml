@@ -50,6 +50,7 @@ defaults:
       layout: post
     values:
       hidden: false
+      
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
@@ -59,7 +60,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-fontawesome-svg
 
-  
+
 jekyll-mentions:
   base_url: 'https://github.com'
 compress_html:
